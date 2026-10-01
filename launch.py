@@ -1,4 +1,4 @@
 def lauchRocket(rocketID: string):
-  if(rocketID == "MNR76"):
+  if(rocketID == "MNR230"):
     return "Successfully lauched"
   return "Unable to launch"
